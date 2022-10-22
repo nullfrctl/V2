@@ -1,2 +1,5 @@
 # Ignore our build logs
 /install_log.xml
+
+# Ignore packed directory
+/packed/
